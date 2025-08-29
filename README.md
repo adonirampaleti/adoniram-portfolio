@@ -30,7 +30,6 @@ Detail-oriented and highly analytical graduate in *Digital Forensics (Hons.)* wi
 ### 🎯 CTF Challenges  
 - *HackTheBox / TryHackMe Writeups*  
   - Documented step-by-step solutions for web exploitation and forensic challenges.  
-  - [Read Writeups](#)  
 
 ---
 
